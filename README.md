@@ -1,16 +1,17 @@
-# app_festividades
+# app_festividades / APLICACIÓN MULTIPLATAFORMA PARA CONSULTAR Y ORGANIZAR FESTIVIDADES
 
-A new Flutter project.
+Es na aplicación donde el usuario pueda consultar las festividades de distintos países, añadirlos a favortios y/o calendairo.
 
-## Getting Started
+## Justificación
 
-This project is a starting point for a Flutter application.
+- La movilidad internacional crece y conocer las festividades locales facilita la integración.
+- Los emigrantes suelen desconocer las fechas y tradiciones nacionales del nuevo país. 
+- Falta una app sencilla que consulte, guarde y organice festividades internacionales. 
+- Nuestra solución: app móvil Flutter/Dart con Firebase, para consultar, marcar favoritos y crear calendarios personalizados.  
+- Beneficiarios: viajeros, expatriados y personas con vínculos interculturales.
 
-A few resources to get you started if this is your first Flutter project:
+## Objetivo general
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Desarrollar una aplicación móvil multiplataforma que permita consultar, seleccionar y organizar festividades de distintos países, facilitando el conocimiento cultural y promoviendo la integración.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Estaba usando la Metodología Ágil (Scrum)*
