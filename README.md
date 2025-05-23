@@ -15,3 +15,13 @@ Es na aplicación donde el usuario pueda consultar las festividades de distintos
 Desarrollar una aplicación móvil multiplataforma que permita consultar, seleccionar y organizar festividades de distintos países, facilitando el conocimiento cultural y promoviendo la integración.
 
 *Estaba usando la Metodología Ágil (Scrum)*
+
+La docuemntación:
+[2DAM_PROY_Yunevych_Karyna.pdf](https://github.com/user-attachments/files/20409751/2DAM_PROY_Yunevych_Karyna.pdf)
+
+La presentación: 
+[2DAM-PRES_ Yunevych_Karyna.pdf](https://github.com/user-attachments/files/20409753/2DAM-PRES_.Yunevych_Karyna.pdf)
+
+Video de aplicación: 
+https://drive.google.com/file/d/144cV3cduDdhbd3hLNRtqk94vVRAJVSnH/view?usp=share_link
+
